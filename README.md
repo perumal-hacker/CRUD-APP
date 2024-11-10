@@ -9,7 +9,7 @@ This project demonstrates a simple CRUD application using the MERN stack. It all
 Features
 Create: Add new items to the database.
 Read: View existing items.
-Update: Modify item details.
+Update: Modify item details
 Delete: Remove items from the database.
 Technologies Used
 Frontend:
